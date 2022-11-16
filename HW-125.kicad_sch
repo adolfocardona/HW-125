@@ -1,0 +1,102 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2c594ede-a4cf-46dd-a949-e9e6c6bdf2b5)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 12.7 12.7) (size 271.78 152.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8e21b38b-b93d-48cb-9323-91e797077bb2)
+    (property "Sheet name" "HW-125" (id 0) (at 12.7 11.9884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "_hw-125.kicad_sch" (id 1) (at 12.7 165.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/be05ca51-cd87-44f1-b6b0-5d8a85a83ace"
+      (reference "#PWR01") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/902f42ff-a16d-48b4-a5bf-5ecd192f07e4"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/b50b1ce4-9f99-432d-9e46-d59b03575d93"
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/2087afbb-1ce8-4b2d-a329-c0aa0d0b78c8"
+      (reference "#PWR04") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/8d6dba53-3ea7-43af-a476-6175fccdd893"
+      (reference "#PWR05") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/8950e56e-a930-492b-a5aa-86476862b329"
+      (reference "#PWR06") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/70d6bbe2-deb4-490a-a8e0-728038bf57f5"
+      (reference "#PWR07") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/6895f087-e6f5-4f60-a712-4cc15a3d42e1"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/5b3146cc-552d-400e-a7b2-e73cdc56716d"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/a35d0051-b7fa-4ee1-b117-95096c42cb3e"
+      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/e2a79175-0240-4ce0-979f-3f8753a5c851"
+      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/55846dc0-b557-477c-b80f-9761b7e11b3d"
+      (reference "#PWR012") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/37608f9f-84e5-40ee-93b1-482675278c0b"
+      (reference "C1") (unit 1) (value "100NF") (footprint "OPL_Capacitor:C0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/17561e5e-0e59-4de5-8ee9-7ba2faa2725a"
+      (reference "C2") (unit 1) (value "100NF") (footprint "OPL_Capacitor:C0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/e5c490c4-bb29-444b-af26-767d71601c32"
+      (reference "C3") (unit 1) (value "10UF") (footprint "OPL_Capacitor:AVX-A(1206)")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/9f1f8cd4-76ff-4a71-820e-ffa4fbb4a56e"
+      (reference "C4") (unit 1) (value "100NF") (footprint "OPL_Capacitor:C0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/34223b32-89a5-4702-a2f6-e99415cea8ed"
+      (reference "CN1") (unit 1) (value "IN") (footprint "OPL_Connector:H6-2.54")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/0d948454-a287-406f-a807-f25a9de4f39f"
+      (reference "J1") (unit 1) (value "SD") (footprint "OPL_Connector:MICRO-SD9+4P-SMD-16.1X14.5X1.85MM")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/cf0e6b7e-93af-4869-b812-e2f69cc349e7"
+      (reference "R1") (unit 1) (value "3.3K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/40c8ebf8-d7ed-4982-9e9b-7c6653b92d3b"
+      (reference "R2") (unit 1) (value "3.3K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/4d808486-6841-4209-8ee5-a4f92d853b17"
+      (reference "R3") (unit 1) (value "3.3K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/0d75a0a5-d2da-4b5e-b24c-8ec508763408"
+      (reference "R4") (unit 1) (value "3.3K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/b5758e7d-00de-44cc-9431-d1ce2bc2cb97"
+      (reference "U1") (unit 1) (value "74VHC125") (footprint "OPL_Integrated_Circuit:TSSOP14-0.65-5X4.4MM")
+    )
+    (path "/8e21b38b-b93d-48cb-9323-91e797077bb2/c4e2668f-3afc-4146-932a-e3572b6e51e6"
+      (reference "U2") (unit 1) (value "1117") (footprint "OPL_Integrated_Circuit:SOT-223")
+    )
+  )
+)

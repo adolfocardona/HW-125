@@ -1,0 +1,34 @@
+"Source:","C:\Users\a-car\Documents\KiCad\6.0\projects\HW-125\HW-125.kicad_sch"
+"Date:","11/16/2022 12:00:14 AM"
+"Tool:","Eeschema (6.0.8)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MPN","SKU"
+"","","C1","100NF","OPL_Capacitor:CERAMIC-100NF-50V-10%-X7R_0603_","OPL_Capacitor:C0603","","CC0603KRX7R9BB104","302010138"
+"","","C2","100NF","OPL_Capacitor:CERAMIC-100NF-50V-10%-X7R_0603_","OPL_Capacitor:C0603","","CC0603KRX7R9BB104","302010138"
+"","","C3","10UF","OPL_Capacitor:TANTALUM-SMD-10UF-10V-10%_AVX-A_","OPL_Capacitor:AVX-A(1206)","","TAJA106K010RNJ","302020011"
+"","","C4","100NF","OPL_Capacitor:CERAMIC-100NF-50V-10%-X7R_0603_","OPL_Capacitor:C0603","","CC0603KRX7R9BB104","302010138"
+"","","CN1","IN","OPL_Connector:DIP-BLACK-FEMALE-HEADER-VERT_6P-2.54_","OPL_Connector:H6-2.54","","F185-1106A1BSYC1","320030060"
+"","","J1","SD","OPL_Connector:MICRO-SD-CARD-HOLDER-9P","OPL_Connector:MICRO-SD9+4P-SMD-16.1X14.5X1.85MM","","","320090008"
+"","","R1","3.3K","OPL_Resistor:SMD-RES-3.3K-1%-1_10W_0603_","OPL_Resistor:R0603","","RC0603FR-073K3L","301010251"
+"","","R2","3.3K","OPL_Resistor:SMD-RES-3.3K-1%-1_10W_0603_","OPL_Resistor:R0603","","RC0603FR-073K3L","301010251"
+"","","R3","3.3K","OPL_Resistor:SMD-RES-3.3K-1%-1_10W_0603_","OPL_Resistor:R0603","","RC0603FR-073K3L","301010251"
+"","","R4","3.3K","OPL_Resistor:SMD-RES-3.3K-1%-1_10W_0603_","OPL_Resistor:R0603","","RC0603FR-073K3L","301010251"
+"","","U1","74VHC125","OPL_Integrated_Circuit:LOGIC-74VHC125MTCX_TSSOP14_","OPL_Integrated_Circuit:TSSOP14-0.65-5X4.4MM","","74VHC125MTCX","310050042"
+"","","U2","1117","OPL_Integrated_Circuit:PMIC-CJT1117-3.3_SOT223_","OPL_Integrated_Circuit:SOT-223","","CJT1117-3.3","310030097"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MPN","SKU"
+"1","3","C1, C2, C4","100NF","OPL_Capacitor:CERAMIC-100NF-50V-10%-X7R_0603_","OPL_Capacitor:C0603","","CC0603KRX7R9BB104","302010138"
+"2","1","C3","10UF","OPL_Capacitor:TANTALUM-SMD-10UF-10V-10%_AVX-A_","OPL_Capacitor:AVX-A(1206)","","TAJA106K010RNJ","302020011"
+"3","1","CN1","IN","OPL_Connector:DIP-BLACK-FEMALE-HEADER-VERT_6P-2.54_","OPL_Connector:H6-2.54","","F185-1106A1BSYC1","320030060"
+"4","1","J1","SD","OPL_Connector:MICRO-SD-CARD-HOLDER-9P","OPL_Connector:MICRO-SD9+4P-SMD-16.1X14.5X1.85MM","","","320090008"
+"5","4","R1, R2, R3, R4","3.3K","OPL_Resistor:SMD-RES-3.3K-1%-1_10W_0603_","OPL_Resistor:R0603","","RC0603FR-073K3L","301010251"
+"6","1","U1","74VHC125","OPL_Integrated_Circuit:LOGIC-74VHC125MTCX_TSSOP14_","OPL_Integrated_Circuit:TSSOP14-0.65-5X4.4MM","","74VHC125MTCX","310050042"
+"7","1","U2","1117","OPL_Integrated_Circuit:PMIC-CJT1117-3.3_SOT223_","OPL_Integrated_Circuit:SOT-223","","CJT1117-3.3","310030097"

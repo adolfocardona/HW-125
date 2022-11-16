@@ -1,0 +1,57 @@
+** Drc report for C:\Users\a-car\Documents\KiCad\6.0\projects\HW-125\HW-125.kicad_pcb **
+** Created on 2022-11-15 23:58:52 **
+
+** Found 12 DRC violations **
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; Severity: error (excluded)
+    @(69.8500 mm, 119.3800 mm): Footprint C3
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error (excluded)
+    @(50.8000 mm, 101.6000 mm): Footprint REF**
+    @(58.4200 mm, 111.7600 mm): Footprint J1
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error (excluded)
+    @(50.8000 mm, 121.9200 mm): Footprint REF**
+    @(58.4200 mm, 111.7600 mm): Footprint J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(55.6700 mm, 114.8100 mm): Circle on F.Silkscreen
+    @(55.6700 mm, 114.8100 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(55.6700 mm, 114.3584 mm): Line on F.Silkscreen
+    @(55.6700 mm, 114.8100 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(56.1200 mm, 114.8100 mm): Line on F.Silkscreen
+    @(55.6700 mm, 114.8100 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(55.6700 mm, 106.8300 mm): Circle on F.Silkscreen
+    @(55.6700 mm, 106.8300 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(55.6700 mm, 106.3858 mm): Line on F.Silkscreen
+    @(55.6700 mm, 106.8300 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning (excluded)
+    @(56.1200 mm, 106.8350 mm): Line on F.Silkscreen
+    @(55.6700 mm, 106.8300 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning (excluded)
+    @(55.6700 mm, 106.8300 mm): Circle on F.Silkscreen
+    @(55.6700 mm, 106.8300 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning (excluded)
+    @(55.6700 mm, 114.8100 mm): Circle on F.Silkscreen
+    @(55.6700 mm, 114.8100 mm): Through hole pad [<no net>] of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning (excluded)
+    @(55.6700 mm, 106.8300 mm): Circle on F.Silkscreen
+    @(55.6700 mm, 106.8300 mm): Through hole pad [<no net>] of J1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

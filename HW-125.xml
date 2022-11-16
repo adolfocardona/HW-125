@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\a-car\Documents\KiCad\6.0\projects\HW-125\HW-125.kicad_sch</source>
+    <date>11/16/2022 12:00:14 AM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>HW-125.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>_hw-125.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100NF</value>
+      <footprint>OPL_Capacitor:C0603</footprint>
+      <fields>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_" description=""/>
+      <property name="MPN" value="CC0603KRX7R9BB104"/>
+      <property name="SKU" value="302010138"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>37608f9f-84e5-40ee-93b1-482675278c0b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100NF</value>
+      <footprint>OPL_Capacitor:C0603</footprint>
+      <fields>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_" description=""/>
+      <property name="MPN" value="CC0603KRX7R9BB104"/>
+      <property name="SKU" value="302010138"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>17561e5e-0e59-4de5-8ee9-7ba2faa2725a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10UF</value>
+      <footprint>OPL_Capacitor:AVX-A(1206)</footprint>
+      <fields>
+        <field name="MPN">TAJA106K010RNJ</field>
+        <field name="SKU">302020011</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="TANTALUM-SMD-10UF-10V-10%_AVX-A_" description=""/>
+      <property name="MPN" value="TAJA106K010RNJ"/>
+      <property name="SKU" value="302020011"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>e5c490c4-bb29-444b-af26-767d71601c32</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100NF</value>
+      <footprint>OPL_Capacitor:C0603</footprint>
+      <fields>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_" description=""/>
+      <property name="MPN" value="CC0603KRX7R9BB104"/>
+      <property name="SKU" value="302010138"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>9f1f8cd4-76ff-4a71-820e-ffa4fbb4a56e</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>IN</value>
+      <footprint>OPL_Connector:H6-2.54</footprint>
+      <fields>
+        <field name="MPN">F185-1106A1BSYC1</field>
+        <field name="SKU">320030060</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="DIP-BLACK-FEMALE-HEADER-VERT_6P-2.54_" description=""/>
+      <property name="MPN" value="F185-1106A1BSYC1"/>
+      <property name="SKU" value="320030060"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>34223b32-89a5-4702-a2f6-e99415cea8ed</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SD</value>
+      <footprint>OPL_Connector:MICRO-SD9+4P-SMD-16.1X14.5X1.85MM</footprint>
+      <fields>
+        <field name="SKU">320090008</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="MICRO-SD-CARD-HOLDER-9P" description=""/>
+      <property name="SKU" value="320090008"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>0d948454-a287-406f-a807-f25a9de4f39f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3.3K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-073K3L</field>
+        <field name="SKU">301010251</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-3.3K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-073K3L"/>
+      <property name="SKU" value="301010251"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>cf0e6b7e-93af-4869-b812-e2f69cc349e7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3.3K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-073K3L</field>
+        <field name="SKU">301010251</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-3.3K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-073K3L"/>
+      <property name="SKU" value="301010251"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>40c8ebf8-d7ed-4982-9e9b-7c6653b92d3b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3.3K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-073K3L</field>
+        <field name="SKU">301010251</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-3.3K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-073K3L"/>
+      <property name="SKU" value="301010251"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>4d808486-6841-4209-8ee5-a4f92d853b17</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>3.3K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-073K3L</field>
+        <field name="SKU">301010251</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-3.3K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-073K3L"/>
+      <property name="SKU" value="301010251"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>0d75a0a5-d2da-4b5e-b24c-8ec508763408</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74VHC125</value>
+      <footprint>OPL_Integrated_Circuit:TSSOP14-0.65-5X4.4MM</footprint>
+      <fields>
+        <field name="MPN">74VHC125MTCX</field>
+        <field name="SKU">310050042</field>
+      </fields>
+      <libsource lib="OPL_Integrated_Circuit" part="LOGIC-74VHC125MTCX_TSSOP14_" description=""/>
+      <property name="MPN" value="74VHC125MTCX"/>
+      <property name="SKU" value="310050042"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>b5758e7d-00de-44cc-9431-d1ce2bc2cb97</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>1117</value>
+      <footprint>OPL_Integrated_Circuit:SOT-223</footprint>
+      <fields>
+        <field name="MPN">CJT1117-3.3</field>
+        <field name="SKU">310030097</field>
+      </fields>
+      <libsource lib="OPL_Integrated_Circuit" part="PMIC-CJT1117-3.3_SOT223_" description=""/>
+      <property name="MPN" value="CJT1117-3.3"/>
+      <property name="SKU" value="310030097"/>
+      <property name="Sheetname" value="HW-125"/>
+      <property name="Sheetfile" value="File: _hw-125.kicad_sch"/>
+      <sheetpath names="/HW-125/" tstamps="/8e21b38b-b93d-48cb-9323-91e797077bb2/"/>
+      <tstamps>c4e2668f-3afc-4146-932a-e3572b6e51e6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_">
+      <footprints>
+        <fp>*C0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CERAMIC-100NF-50V-10%-X7R_0603_</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Capacitor" part="TANTALUM-SMD-10UF-10V-10%_AVX-A_">
+      <footprints>
+        <fp>*AVX-A*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">TANTALUM-SMD-10UF-10V-10%_AVX-A_</field>
+        <field name="MPN">TAJA106K010RNJ</field>
+        <field name="SKU">302020011</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="DIP-BLACK-FEMALE-HEADER-VERT_6P-2.54_">
+      <footprints>
+        <fp>*H6-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">DIP-BLACK-FEMALE-HEADER-VERT_6P-2.54_</field>
+        <field name="MPN">F185-1106A1BSYC1</field>
+        <field name="SKU">320030060</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="MICRO-SD-CARD-HOLDER-9P">
+      <footprints>
+        <fp>*MICRO-SD9+4P-SMD-16.1X14.5X1.85MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">MICRO-SD-CARD-HOLDER-9P</field>
+        <field name="SKU">320090008</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DATA2" type="bidirectional"/>
+        <pin num="2" name="CS" type="bidirectional"/>
+        <pin num="3" name="DI" type="bidirectional"/>
+        <pin num="4" name="VDD" type="bidirectional"/>
+        <pin num="5" name="SCLK" type="bidirectional"/>
+        <pin num="6" name="VSS" type="bidirectional"/>
+        <pin num="7" name="DO" type="bidirectional"/>
+        <pin num="8" name="DATA1" type="bidirectional"/>
+        <pin num="9" name="CDN" type="bidirectional"/>
+        <pin num="10" name="G4" type="bidirectional"/>
+        <pin num="11" name="G3" type="bidirectional"/>
+        <pin num="12" name="G1" type="bidirectional"/>
+        <pin num="13" name="G2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Integrated_Circuit" part="LOGIC-74VHC125MTCX_TSSOP14_">
+      <footprints>
+        <fp>*TSSOP14-0.65-5X4.4MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LOGIC-74VHC125MTCX_TSSOP14_</field>
+        <field name="MPN">74VHC125MTCX</field>
+        <field name="SKU">310050042</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{A0}" type="power_out"/>
+        <pin num="2" name="B0" type="bidirectional"/>
+        <pin num="3" name="O0" type="bidirectional"/>
+        <pin num="4" name="~{A1}" type="power_out"/>
+        <pin num="5" name="B1" type="bidirectional"/>
+        <pin num="6" name="O1" type="bidirectional"/>
+        <pin num="7" name="GND" type="power_out"/>
+        <pin num="8" name="O3" type="bidirectional"/>
+        <pin num="9" name="B3" type="bidirectional"/>
+        <pin num="10" name="~{A3}" type="bidirectional"/>
+        <pin num="11" name="O2" type="bidirectional"/>
+        <pin num="12" name="B2" type="bidirectional"/>
+        <pin num="13" name="~{A2}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Integrated_Circuit" part="PMIC-CJT1117-3.3_SOT223_">
+      <footprints>
+        <fp>*SOT-223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PMIC-CJT1117-3.3_SOT223_</field>
+        <field name="MPN">CJT1117-3.3</field>
+        <field name="SKU">310030097</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="bidirectional"/>
+        <pin num="2" name="OUT" type="bidirectional"/>
+        <pin num="3" name="IN" type="bidirectional"/>
+        <pin num="TER" name="OUT" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Resistor" part="SMD-RES-3.3K-1%-1_10W_0603_">
+      <footprints>
+        <fp>*R0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">SMD-RES-3.3K-1%-1_10W_0603_</field>
+        <field name="MPN">RC0603FR-073K3L</field>
+        <field name="SKU">301010251</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="OPL_Capacitor">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Capacitor.lib</uri>
+    </library>
+    <library logical="OPL_Connector">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Connector.lib</uri>
+    </library>
+    <library logical="OPL_Integrated_Circuit">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Integrated_Circuit.lib</uri>
+    </library>
+    <library logical="OPL_Resistor">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Resistor.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="VDD" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="bidirectional"/>
+      <node ref="U2" pin="TER" pinfunction="OUT" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="CS">
+      <node ref="CN1" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="CS_CARD">
+      <node ref="J1" pin="2" pinfunction="CS" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="O3" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="DI">
+      <node ref="J1" pin="3" pinfunction="DI" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="O0" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="DO">
+      <node ref="J1" pin="7" pinfunction="DO" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="J1" pin="10" pinfunction="G4" pintype="bidirectional"/>
+      <node ref="J1" pin="11" pinfunction="G3" pintype="bidirectional"/>
+      <node ref="J1" pin="12" pinfunction="G1" pintype="bidirectional"/>
+      <node ref="J1" pin="13" pinfunction="G2" pintype="bidirectional"/>
+      <node ref="J1" pin="6" pinfunction="VSS" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="~{A0}" pintype="power_out"/>
+      <node ref="U1" pin="10" pinfunction="~{A3}" pintype="bidirectional"/>
+      <node ref="U1" pin="13" pinfunction="~{A2}" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="~{A1}" pintype="power_out"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_out"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="MISO">
+      <node ref="CN1" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="U1" pin="11" pinfunction="O2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="MOSI">
+      <node ref="CN1" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="B3" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="B0" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="SCK">
+      <node ref="CN1" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="SCLK">
+      <node ref="J1" pin="5" pinfunction="SCLK" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="O1" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="VCC">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="CN1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="IN" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="DATA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="DATA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="CDN" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
